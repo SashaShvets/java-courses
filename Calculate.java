@@ -13,11 +13,11 @@ public class Calculate{
    int sqr = (int) Math.pow(first, second);
 
    
-   System.out.println("Сумма "+summ);
-   System.out.println("Разница "+minus);
-   System.out.println("Умножение "+multipl);
-   System.out.println("Деление "+divis);
-   System.out.println("Возведение в степень "+sqr);
+   System.out.println("Summ "+summ);
+   System.out.println("Minus "+minus);
+   System.out.println("Multiplication "+multipl);
+   System.out.println("Division "+divis);
+   System.out.println("Sqr "+sqr);
     
   }
 }
